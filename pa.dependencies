@@ -90,10 +90,10 @@
         "revision": "cm-11.0"
     },
     {
-        "remote": "cm",
-        "repository": "CyanogenMod/android_device_htc_s4-common",
+        "remote":      "cm",
+        "repository":  "AOSPA-legacy/android_device_htc_s4-common",
         "target_path": "device/htc/s4-common",
-        "revision": "cm-11.0"
+        "revision":    "kitkat"
     },
     {
         "remote": "github",
