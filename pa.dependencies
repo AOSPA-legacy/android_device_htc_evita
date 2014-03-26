@@ -90,14 +90,14 @@
         "revision": "cm-11.0"
     },
     {
-		"remote": "cm",
+        "remote": "cm",
         "repository": "CyanogenMod/android_device_htc_s4-common",
         "target_path": "device/htc/s4-common",
         "revision": "cm-11.0"
     },
     {
-		"remote": "github",
-        "repository": "WillPresley/android_device_htc_evita",
+        "remote": "github",
+        "repository": "AOSPA-legacy/android_device_htc_evita",
         "target_path": "device/htc/evita",
         "revision": "kitkat"
     }
