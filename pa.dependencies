@@ -97,7 +97,7 @@
     },
     {
 		"remote": "github",
-        "repository": "WillPresley/aospa_device_htc_evita",
+        "repository": "WillPresley/android_device_htc_evita",
         "target_path": "device/htc/evita",
         "revision": "kitkat"
     }
