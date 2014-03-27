@@ -100,5 +100,11 @@
         "repository": "AOSPA-legacy/android_device_htc_evita",
         "target_path": "device/htc/evita",
         "revision": "kitkat"
+    },
+    {
+        "remote":      "blobs",
+        "repository":  "proprietary_vendor_htc",
+        "target_path": "vendor/htc",
+        "revision":    "cm-11.0"
     }
 ]
