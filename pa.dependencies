@@ -90,11 +90,11 @@
         "revision":    "cm-11.0"
     },
     {
-        "remote":      "cm",
-        "repository":  "CyanogenMod/android_device_htc_msm8960-common",
+        "remote":      "github",
+        "repository":  "AOSPA-legacy/android_device_htc_msm8960-common",
         "target_path": "device/htc/msm8960-common",
-        "revision":    "cm-11.0"
-    },    
+        "revision":    "kitkat"
+    },
     {
         "remote":      "github",
         "repository":  "AOSPA-legacy/android_device_htc_s4-common",
