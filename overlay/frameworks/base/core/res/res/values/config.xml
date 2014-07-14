@@ -23,7 +23,7 @@
 
     <!-- Button illumination -->
     <bool name="config_deviceHasVariableButtonBrightness">true</bool>
-    
+
     <!-- Is the battery LED intrusive? Used to decide if there should be a disable option -->
     <bool name="config_intrusiveBatteryLed">true</bool>
 
@@ -43,9 +43,7 @@
          config to 7. -->
     <integer name="config_deviceHardwareKeys">19</integer>
 
-    <!-- Flag indicating whether the surface flinger is inefficient
-         at performing a blur.  Used by parts of the UI to turn off
-         the blur effect where it isn't worth the performance hit. -->
-    <bool name="config_sf_slowBlur">true</bool>
-    
+    <!-- config_enableWifiDisplay -->
+    <bool name="config_enableWifiDisplay">true</bool>
+
 </resources>
